@@ -10,18 +10,13 @@
 
 ## 📌 Project Overview
 
-This repository showcases various **Automated Exploratory Data Analysis (EDA) tools** in Python that help in quickly understanding datasets through visualizations, reports, and interactive interfaces.
-
-The main goal is to **simplify and accelerate data analysis** by leveraging powerful libraries that automatically generate insights.
-
----
-
-
-This repository showcases various Automated Exploratory Data Analysis (EDA) tools in Python...
+This repository showcases various Automated Exploratory Data Analysis (EDA) tools in Python that help in quickly understanding datasets through visualizations, reports, and interactive interfaces.
 
 💡 This repository helps compare multiple EDA tools and understand when to use each one effectively.
 
-The main goal is to simplify and accelerate data analysis...
+The main goal is to simplify and accelerate data analysis by leveraging powerful libraries that automatically generate insights.
+
+---
 
 ## 🧰 EDA Libraries Covered
 
