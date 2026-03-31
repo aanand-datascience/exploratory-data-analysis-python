@@ -1,4 +1,7 @@
 # EDA Tools in Python
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![EDA](https://img.shields.io/badge/EDA-Automation-orange)
+![Visualization](https://img.shields.io/badge/Visualization-Tools-red)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
